@@ -1,0 +1,17 @@
+form {
+    background-color: black;
+    color: white;
+}
+
+input {
+    background-color: chartreuse;
+}
+
+button {
+    background-color: red;
+    color: white;
+}
+
+#container {
+    color: red;
+}
